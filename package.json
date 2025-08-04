@@ -1,0 +1,22 @@
+{
+  "name": "hf-ai-chat-app",
+  "version": "1.0.0",
+  "description": "AI Chat application using Hugging Face Inference API",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "ai",
+    "chat",
+    "hugging-face",
+    "vercel",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
