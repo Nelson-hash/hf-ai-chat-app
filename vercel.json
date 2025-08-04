@@ -19,8 +19,5 @@
       "src": "/api/(.*)",
       "dest": "/api/$1"
     }
-  ],
-  "env": {
-    "HUGGING_FACE_TOKEN": "@hugging-face-token"
-  }
+  ]
 }
